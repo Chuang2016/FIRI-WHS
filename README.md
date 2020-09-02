@@ -16,6 +16,9 @@ FIRI-WHS 土壤水分运动模块是围绕求解 Richard 方程构建的，在�
 
 由于时间和精力有限，目前无法提供程序使用说明，在 TEST 目录下提供了几个实例，供参考。双击 RUN.BAT 或者在 CMD 中运行RUN.BAT。
 
+输入文件：BAS.IN, PERIOD.IN, SOIL.IN
+输出文件: SWF_PFL.OUT, SWF_PER.OUT, SWF_OBS.OUT
+
 该程序包由中国农业科学院农田灌溉研究所黄仲冬、高阳，在洛桑研究所张效先的指导下进行开发。
 
 联系方式: zdhuang@126.com
@@ -25,6 +28,8 @@ FIRI-WHS 土壤水分运动模块是围绕求解 Richard 方程构建的，在�
 在模型基本框架的搭建中，我们借鉴了 MODFLOW 早期版本的框架搭建思路，在程序的编写中，也采用了TTUTIL FORTRAN库，在此表示感谢！
 
 本程序为自由软件，遵循 GNU GPL 协议，如有商业用途，请联系作者。你可以修改程序，但在发布时需要进行说明并表明出处。
+
+FIRI-WHS 文件结构
 
 BIN 目录，存放可执行文件。
 
