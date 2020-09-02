@@ -1,0 +1,3 @@
+chcp 65001
+..\..\BIN\FIRI-WHS-WIN64
+
