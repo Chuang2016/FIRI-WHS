@@ -25,6 +25,11 @@ FIRI-WHS 土壤水分运动模块是围绕求解 Richard 方程构建的，在�
 本程序为自由软件，遵循 GNU GPL 协议，如有商业用途，请联系作者。你可以修改程序，但在发布时需要进行说明并表明出处。
 
 BIN 目录，存放可执行文件。
+
 SRC 目录，存放程序源代码。
-IVF 目录，存放 Visual Studio 2017 和 Intel Fortran 工程文件。
+
+IVF 目录，存放 Visual Studio 2017 和 Intel Fortran 2018 工程文件。
+
 TEST 目录，存放测试文件。
+
+
